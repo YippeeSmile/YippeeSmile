@@ -7,8 +7,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![SQL](https://img.shields.io/badge/-SQL-20232A?style=for-the-badge&logo=sql)
 ![Webpack](https://img.shields.io/badge/-webpack-20232A?style=for-the-badge&logo=webpack)
+![SQL](https://img.shields.io/badge/-SQL-20232A?style=for-the-badge&logo=sql)
+![Figma](https://img.shields.io/badge/-figma-20232A?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-20232A?style=for-the-badge&logo=AdobePhotoshop)
+![NodeJs](https://img.shields.io/badge/-NodeJs-20232A?style=for-the-badge&logo=node.Js)
 
 ### Codewars:
 
