@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm beginner web-developer 
+### I'm junior frontend developer 
 
 ## Languages and Tools: 
 ![HTML](https://img.shields.io/badge/-HTML-20232A?style=for-the-badge&logo=html5)
