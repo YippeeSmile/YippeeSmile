@@ -14,7 +14,7 @@
 
 
 
-## Languages and Tools: 
+## :small_red_triangle_down: Мой стек технологий: :small_red_triangle_down:
 ![HTML](https://img.shields.io/badge/-HTML-20232A?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)
