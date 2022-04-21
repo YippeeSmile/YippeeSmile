@@ -1,6 +1,18 @@
-### Hi there 👋
+### Привет👋, меня зовут Юлия Паджева!
 
-### I'm junior frontend developer 
+### Я начинающий front-end developer: 
+
+:small_blue_diamond: Учусь на курсе в Яндекс Практикуме ;
+
+:small_blue_diamond: Читаю книги по программированию;
+
+:small_blue_diamond: Решаю каты на codewars;
+
+:small_blue_diamond: Сейчас изучаю React.js;
+
+:small_blue_diamond: Стараюсь писать чистый и современный код.
+
+
 
 ## Languages and Tools: 
 ![HTML](https://img.shields.io/badge/-HTML-20232A?style=for-the-badge&logo=html5)
