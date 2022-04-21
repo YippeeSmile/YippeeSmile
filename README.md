@@ -28,7 +28,7 @@
 
 ### Codewars:
 
-[![codewars](https://www.codewars.com/users/yoopppyyyyyy/badges/large)](https://www.codewars.com/users/yoopppyyyyyy)
+[![codewars](https://www.codewars.com/users/yoopppyyyyyy/badges/small)](https://www.codewars.com/users/yoopppyyyyyy)
 
 ### Contacts:
 :iphone: Телеграм: [@yoopppyyyyyysmile](https://t.me/yoopppyyyyyysmile)    
