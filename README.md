@@ -4,14 +4,15 @@
 
 :small_blue_diamond: Читаю книги по программированию;
 
-:small_blue_diamond: Решаю каты на codewars;
+:small_blue_diamond: Решаю задачки на codewars;
 
 :small_blue_diamond: Сейчас изучаю React.js;
 
 :small_blue_diamond: Стараюсь писать чистый и современный код.
 
 
-
+### Контакты:
+:iphone: Телеграм: [@yoopppyyyyyysmile](https://t.me/yoopppyyyyyysmile)    
 
 
 
@@ -30,10 +31,6 @@
 
 [![codewars](https://www.codewars.com/users/yoopppyyyyyy/badges/small)](https://www.codewars.com/users/yoopppyyyyyy)
 
-### Contacts:
-:iphone: Телеграм: [@yoopppyyyyyysmile](https://t.me/yoopppyyyyyysmile)    
-
-:email: Почта: yippee.smile@yandex.ru    
 
 
 ### Метрика: 
