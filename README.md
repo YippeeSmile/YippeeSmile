@@ -12,7 +12,8 @@
 
 
 ### Контакты:
-:iphone: Телеграм: [@yoopppyyyyyysmile](https://t.me/yoopppyyyyyysmile)    
+:iphone: Телеграм: [@yoopppyyyyyysmile](https://t.me/yoopppyyyyyysmile)   
+📧 yippee.smile@yandex.ru
 
 
 
