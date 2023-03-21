@@ -1,10 +1,10 @@
 ### 👋Привет, меня зовут Юлия Паджева! Я начинающий front-end developer:metal:
 
-:small_blue_diamond: Сейчас изучаю React.js, TipeScript;
+:small_blue_diamond: Сейчас изучаю React, TipeScript;
 
 :small_blue_diamond: закончила курс по веб разработке в Яндекс Практикум;
 
-:small_blue_diamond: прохожу несколько курсов в purpleschool;
+:small_blue_diamond: прохожу курсы в purpleschool;
 
 :small_blue_diamond: Читаю книги по программированию;
 
