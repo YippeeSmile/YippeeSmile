@@ -19,7 +19,7 @@
 
 
 
-## :wrench:Мой стек технологий:
+## Изучаю и использую:
 ![HTML](https://img.shields.io/badge/-HTML-20232A?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)
@@ -29,6 +29,7 @@
 ![Figma](https://img.shields.io/badge/-figma-20232A?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-20232A?style=for-the-badge&logo=AdobePhotoshop)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-20232A?style=for-the-badge&logo=node.Js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=node.Js)
 
 ### Codewars:
 
