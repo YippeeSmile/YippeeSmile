@@ -29,7 +29,10 @@
 ![Figma](https://img.shields.io/badge/-figma-20232A?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-20232A?style=for-the-badge&logo=AdobePhotoshop)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-20232A?style=for-the-badge&logo=node.Js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=node.Js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TS)
+![Postman](https://img.shields.io/badge/-Postman-20232A?style=for-the-badge&logo=postman)
+![MongoDB](https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB)
+
 
 ### Codewars:
 
