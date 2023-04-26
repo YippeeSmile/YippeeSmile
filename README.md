@@ -33,6 +33,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TS)
 ![Postman](https://img.shields.io/badge/-Postman-20232A?style=for-the-badge&logo=postman)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB)
+![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git)
 
 
 ### Codewars:
