@@ -1,7 +1,7 @@
 ### Привет, меня зовут Юлия Паджева!
 
 
-:small_blue_diamond: Сейчас изучаю React, TipeScript;
+:small_blue_diamond: Сейчас изучаю React, TypeScript;
 
 :small_blue_diamond: закончила курс по веб разработке в Яндекс Практикум;
 
