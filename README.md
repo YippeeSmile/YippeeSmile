@@ -13,8 +13,9 @@
 
 :small_blue_diamond: решаю задачки на codewars;
 
-:small_blue_diamond: стараюсь писать чистый и современный код;
+:small_blue_diamond: активно взялась за гитхаб и проявляю тут активность, делаю pet-проекты;
 
+:small_blue_diamond: ищу работу;
 
 
 ### Контакты:
