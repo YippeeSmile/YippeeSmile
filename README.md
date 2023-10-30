@@ -1,17 +1,19 @@
-### Привет, меня зовут Юлия Паджева! Я начинающий веб-разработчик!
+### Привет, меня зовут Юлия Паджева! Я не теряющий надежду веб-разработчик!
 
 
-:small_blue_diamond: Изучаю React, TypeScript;
+:small_blue_diamond: Предпочтительный стек технологий: HTML, JS, ReactJS;
 
-:small_blue_diamond: закончила курс по веб разработке в Яндекс Практикум;
+:small_blue_diamond: изучаю TypeScript;
 
-:small_blue_diamond: прохожу курсы в purpleschool;
+:small_blue_diamond: закончила курс по веб разработке в Яндекс Практикум и продолжаю учиться;
 
-:small_blue_diamond: Читаю книги по программированию;
+:small_blue_diamond: изучаю курсы в purpleschool;
 
-:small_blue_diamond: Решаю задачки на codewars;
+:small_blue_diamond: читаю книги по программированию;
 
-:small_blue_diamond: Стараюсь писать чистый и современный код;
+:small_blue_diamond: решаю задачки на codewars;
+
+:small_blue_diamond: стараюсь писать чистый и современный код;
 
 
 
