@@ -5,7 +5,7 @@
 
 :small_blue_diamond: Предпочтительный стек технологий: HTML, SCSS, JS, ReactJS;
 
-:small_blue_diamond: изучаю TypeScript;
+:small_blue_diamond: изучаю TypeScript, разбираюсь с webpack;
 
 :small_blue_diamond: закончила курс по веб разработке в Яндекс Практикум и продолжаю учиться;
 
